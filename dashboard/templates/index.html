@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot Feedback Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 2rem;
+            background: #f4f4f4;
+        }
+
+        .kpi-card {
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mb-4">🤖 Chatbot Feedback Dashboard</h1>
+        <!-- Charts Section -->
+        <div class="row mb-5">
+            <div class="col-md-6">
+                <div class="kpi-card">
+                    <h5>Sentiment Distribution</h5>
+                    <canvas id="sentimentChart"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="kpi-card">
+                    <h5>Feedback per Language</h5>
+                    <canvas id="languageChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- KPIs -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="kpi-card">
+                    <h5>Avg Rating</h5>
+                    <h2>{{ avg_rating }}</h2>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="kpi-card">
+                    <h5>Total Feedback</h5>
+                    <h2>{{ total_feedback }}</h2>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="kpi-card">
+                    <h5>Positive (%)</h5>
+                    <h2>{{ positive_percent }}%</h2>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="kpi-card">
+                    <h5>Negative (%)</h5>
+                    <h2>{{ negative_percent }}%</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Feedback Table -->
+        <h4>All Feedback Records</h4>
+
+        <table class="table table-bordered table-striped table-sm bg-white">
+            <thead>
+                <tr>
+                    <th>Session</th>
+                    <th>User ID</th>
+                    <th>Gender</th>
+                    <th>Rating</th>
+                    <th>Sentiment</th>
+                    <th>Language</th>
+                    <th>Comment</th>
+                    <th>Tags</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in records %}
+                <tr>
+                    <td>{{ record.session_id }}</td>
+                    <td>{{ record.user.id }}</td>
+                    <td>{{ record.user.gender|upper }}</td>
+                    <td>{{ record.feedback.rating }}</td>
+                    <td>{{ record.feedback.sentiment }}</td>
+                    <td>{{ record.feedback.language|upper }}</td>
+                    <td>{{ record.feedback.comment }}</td>
+                    <td>{{ record.feedback.tags|join(", ") }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const sentimentData = {{ sentiment_data | tojson }};
+        const languageData = {{ language_data | tojson }};
+
+        const ctx1 = document.getElementById('sentimentChart').getContext('2d');
+        new Chart(ctx1, {
+            type: 'pie',
+            data: {
+                labels: Object.keys(sentimentData),
+                datasets: [{
+                    data: Object.values(sentimentData),
+                    backgroundColor: ['#28a745', '#dc3545']
+                }]
+            },
+            options: {
+                responsive: true
+            }
+        });
+
+        const ctx2 = document.getElementById('languageChart').getContext('2d');
+        new Chart(ctx2, {
+            type: 'bar',
+            data: {
+                labels: Object.keys(languageData),
+                datasets: [{
+                    label: 'Feedback Count',
+                    data: Object.values(languageData),
+                    backgroundColor: '#007bff'
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,10985 @@
+[
+  {
+    "session_id": "S1000",
+    "user": {
+      "id": "U1000",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1002",
+    "user": {
+      "id": "U1002",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1005",
+    "user": {
+      "id": "U1005",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1008",
+    "user": {
+      "id": "U1008",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1009",
+    "user": {
+      "id": "U1009",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "helpful",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1012",
+    "user": {
+      "id": "U1012",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1013",
+    "user": {
+      "id": "U1013",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1015",
+    "user": {
+      "id": "U1015",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1018",
+    "user": {
+      "id": "U1018",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "útil",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1019",
+    "user": {
+      "id": "U1019",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1020",
+    "user": {
+      "id": "U1020",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "útil",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1021",
+    "user": {
+      "id": "U1021",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1026",
+    "user": {
+      "id": "U1026",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1027",
+    "user": {
+      "id": "U1027",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1028",
+    "user": {
+      "id": "U1028",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "quick",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1032",
+    "user": {
+      "id": "U1032",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1033",
+    "user": {
+      "id": "U1033",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "précis",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1034",
+    "user": {
+      "id": "U1034",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1035",
+    "user": {
+      "id": "U1035",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1037",
+    "user": {
+      "id": "U1037",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1038",
+    "user": {
+      "id": "U1038",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1039",
+    "user": {
+      "id": "U1039",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1044",
+    "user": {
+      "id": "U1044",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1046",
+    "user": {
+      "id": "U1046",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1047",
+    "user": {
+      "id": "U1047",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1048",
+    "user": {
+      "id": "U1048",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1049",
+    "user": {
+      "id": "U1049",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1051",
+    "user": {
+      "id": "U1051",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1052",
+    "user": {
+      "id": "U1052",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1054",
+    "user": {
+      "id": "U1054",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1056",
+    "user": {
+      "id": "U1056",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1059",
+    "user": {
+      "id": "U1059",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1061",
+    "user": {
+      "id": "U1061",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1063",
+    "user": {
+      "id": "U1063",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1065",
+    "user": {
+      "id": "U1065",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "educado",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1068",
+    "user": {
+      "id": "U1068",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1069",
+    "user": {
+      "id": "U1069",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "lento",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1070",
+    "user": {
+      "id": "U1070",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1073",
+    "user": {
+      "id": "U1073",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1074",
+    "user": {
+      "id": "U1074",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "lento",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1075",
+    "user": {
+      "id": "U1075",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1077",
+    "user": {
+      "id": "U1077",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1079",
+    "user": {
+      "id": "U1079",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1080",
+    "user": {
+      "id": "U1080",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1081",
+    "user": {
+      "id": "U1081",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "útil",
+        "lento",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1083",
+    "user": {
+      "id": "U1083",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1084",
+    "user": {
+      "id": "U1084",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1088",
+    "user": {
+      "id": "U1088",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1089",
+    "user": {
+      "id": "U1089",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "útil",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1091",
+    "user": {
+      "id": "U1091",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1092",
+    "user": {
+      "id": "U1092",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1094",
+    "user": {
+      "id": "U1094",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1095",
+    "user": {
+      "id": "U1095",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1096",
+    "user": {
+      "id": "U1096",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1100",
+    "user": {
+      "id": "U1100",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1102",
+    "user": {
+      "id": "U1102",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1105",
+    "user": {
+      "id": "U1105",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1106",
+    "user": {
+      "id": "U1106",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1107",
+    "user": {
+      "id": "U1107",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1108",
+    "user": {
+      "id": "U1108",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1111",
+    "user": {
+      "id": "U1111",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1114",
+    "user": {
+      "id": "U1114",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "slow",
+        "polite",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1118",
+    "user": {
+      "id": "U1118",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1120",
+    "user": {
+      "id": "U1120",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1121",
+    "user": {
+      "id": "U1121",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1122",
+    "user": {
+      "id": "U1122",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1124",
+    "user": {
+      "id": "U1124",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1126",
+    "user": {
+      "id": "U1126",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1128",
+    "user": {
+      "id": "U1128",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1132",
+    "user": {
+      "id": "U1132",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1134",
+    "user": {
+      "id": "U1134",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1136",
+    "user": {
+      "id": "U1136",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1137",
+    "user": {
+      "id": "U1137",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "lento",
+        "preciso",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1139",
+    "user": {
+      "id": "U1139",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1145",
+    "user": {
+      "id": "U1145",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1148",
+    "user": {
+      "id": "U1148",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1149",
+    "user": {
+      "id": "U1149",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1150",
+    "user": {
+      "id": "U1150",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "lento",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1151",
+    "user": {
+      "id": "U1151",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1152",
+    "user": {
+      "id": "U1152",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1153",
+    "user": {
+      "id": "U1153",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1155",
+    "user": {
+      "id": "U1155",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1158",
+    "user": {
+      "id": "U1158",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1160",
+    "user": {
+      "id": "U1160",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1161",
+    "user": {
+      "id": "U1161",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1162",
+    "user": {
+      "id": "U1162",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "lento",
+        "educado",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1163",
+    "user": {
+      "id": "U1163",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1168",
+    "user": {
+      "id": "U1168",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1170",
+    "user": {
+      "id": "U1170",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1171",
+    "user": {
+      "id": "U1171",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1172",
+    "user": {
+      "id": "U1172",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1173",
+    "user": {
+      "id": "U1173",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1181",
+    "user": {
+      "id": "U1181",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1183",
+    "user": {
+      "id": "U1183",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1184",
+    "user": {
+      "id": "U1184",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1186",
+    "user": {
+      "id": "U1186",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1189",
+    "user": {
+      "id": "U1189",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1191",
+    "user": {
+      "id": "U1191",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1192",
+    "user": {
+      "id": "U1192",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1193",
+    "user": {
+      "id": "U1193",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow",
+        "accurate",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1196",
+    "user": {
+      "id": "U1196",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "polite",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1197",
+    "user": {
+      "id": "U1197",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1199",
+    "user": {
+      "id": "U1199",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1200",
+    "user": {
+      "id": "U1200",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1201",
+    "user": {
+      "id": "U1201",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1202",
+    "user": {
+      "id": "U1202",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "lent",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1203",
+    "user": {
+      "id": "U1203",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1204",
+    "user": {
+      "id": "U1204",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1205",
+    "user": {
+      "id": "U1205",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1206",
+    "user": {
+      "id": "U1206",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1208",
+    "user": {
+      "id": "U1208",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1210",
+    "user": {
+      "id": "U1210",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1215",
+    "user": {
+      "id": "U1215",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1216",
+    "user": {
+      "id": "U1216",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "lento",
+        "educado",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1221",
+    "user": {
+      "id": "U1221",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1222",
+    "user": {
+      "id": "U1222",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1223",
+    "user": {
+      "id": "U1223",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1226",
+    "user": {
+      "id": "U1226",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "slow",
+        "accurate",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1228",
+    "user": {
+      "id": "U1228",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1231",
+    "user": {
+      "id": "U1231",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1232",
+    "user": {
+      "id": "U1232",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1233",
+    "user": {
+      "id": "U1233",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1234",
+    "user": {
+      "id": "U1234",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1235",
+    "user": {
+      "id": "U1235",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "lent",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1236",
+    "user": {
+      "id": "U1236",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1237",
+    "user": {
+      "id": "U1237",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1239",
+    "user": {
+      "id": "U1239",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "confus",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1242",
+    "user": {
+      "id": "U1242",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "confus",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1243",
+    "user": {
+      "id": "U1243",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "slow",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1244",
+    "user": {
+      "id": "U1244",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "útil",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1245",
+    "user": {
+      "id": "U1245",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1246",
+    "user": {
+      "id": "U1246",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1248",
+    "user": {
+      "id": "U1248",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1250",
+    "user": {
+      "id": "U1250",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1251",
+    "user": {
+      "id": "U1251",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1252",
+    "user": {
+      "id": "U1252",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1255",
+    "user": {
+      "id": "U1255",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1257",
+    "user": {
+      "id": "U1257",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1259",
+    "user": {
+      "id": "U1259",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1260",
+    "user": {
+      "id": "U1260",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1263",
+    "user": {
+      "id": "U1263",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1265",
+    "user": {
+      "id": "U1265",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow",
+        "accurate",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1268",
+    "user": {
+      "id": "U1268",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1272",
+    "user": {
+      "id": "U1272",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "educado",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1273",
+    "user": {
+      "id": "U1273",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "educado",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1275",
+    "user": {
+      "id": "U1275",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1276",
+    "user": {
+      "id": "U1276",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1278",
+    "user": {
+      "id": "U1278",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1279",
+    "user": {
+      "id": "U1279",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1282",
+    "user": {
+      "id": "U1282",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1283",
+    "user": {
+      "id": "U1283",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1284",
+    "user": {
+      "id": "U1284",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "utile",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1285",
+    "user": {
+      "id": "U1285",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1286",
+    "user": {
+      "id": "U1286",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1287",
+    "user": {
+      "id": "U1287",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1293",
+    "user": {
+      "id": "U1293",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1296",
+    "user": {
+      "id": "U1296",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1297",
+    "user": {
+      "id": "U1297",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1298",
+    "user": {
+      "id": "U1298",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1301",
+    "user": {
+      "id": "U1301",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1303",
+    "user": {
+      "id": "U1303",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1306",
+    "user": {
+      "id": "U1306",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1307",
+    "user": {
+      "id": "U1307",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1308",
+    "user": {
+      "id": "U1308",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1309",
+    "user": {
+      "id": "U1309",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1310",
+    "user": {
+      "id": "U1310",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1312",
+    "user": {
+      "id": "U1312",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1315",
+    "user": {
+      "id": "U1315",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1316",
+    "user": {
+      "id": "U1316",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1318",
+    "user": {
+      "id": "U1318",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "utile",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1322",
+    "user": {
+      "id": "U1322",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1323",
+    "user": {
+      "id": "U1323",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1326",
+    "user": {
+      "id": "U1326",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1328",
+    "user": {
+      "id": "U1328",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1331",
+    "user": {
+      "id": "U1331",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1332",
+    "user": {
+      "id": "U1332",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "slow",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1333",
+    "user": {
+      "id": "U1333",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1335",
+    "user": {
+      "id": "U1335",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "helpful",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1336",
+    "user": {
+      "id": "U1336",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1338",
+    "user": {
+      "id": "U1338",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1341",
+    "user": {
+      "id": "U1341",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "quick",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1343",
+    "user": {
+      "id": "U1343",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1344",
+    "user": {
+      "id": "U1344",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1347",
+    "user": {
+      "id": "U1347",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1349",
+    "user": {
+      "id": "U1349",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1351",
+    "user": {
+      "id": "U1351",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1352",
+    "user": {
+      "id": "U1352",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "slow",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1353",
+    "user": {
+      "id": "U1353",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1357",
+    "user": {
+      "id": "U1357",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1358",
+    "user": {
+      "id": "U1358",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "útil",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1363",
+    "user": {
+      "id": "U1363",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1365",
+    "user": {
+      "id": "U1365",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1366",
+    "user": {
+      "id": "U1366",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1367",
+    "user": {
+      "id": "U1367",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "lento",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1369",
+    "user": {
+      "id": "U1369",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "utile",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1372",
+    "user": {
+      "id": "U1372",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1373",
+    "user": {
+      "id": "U1373",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1375",
+    "user": {
+      "id": "U1375",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1377",
+    "user": {
+      "id": "U1377",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1378",
+    "user": {
+      "id": "U1378",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "slow",
+        "helpful",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1379",
+    "user": {
+      "id": "U1379",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1380",
+    "user": {
+      "id": "U1380",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1381",
+    "user": {
+      "id": "U1381",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1382",
+    "user": {
+      "id": "U1382",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1384",
+    "user": {
+      "id": "U1384",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "slow",
+        "polite",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1386",
+    "user": {
+      "id": "U1386",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1387",
+    "user": {
+      "id": "U1387",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1388",
+    "user": {
+      "id": "U1388",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "útil",
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1391",
+    "user": {
+      "id": "U1391",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1395",
+    "user": {
+      "id": "U1395",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1396",
+    "user": {
+      "id": "U1396",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1397",
+    "user": {
+      "id": "U1397",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1398",
+    "user": {
+      "id": "U1398",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1399",
+    "user": {
+      "id": "U1399",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1402",
+    "user": {
+      "id": "U1402",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1404",
+    "user": {
+      "id": "U1404",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1406",
+    "user": {
+      "id": "U1406",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1407",
+    "user": {
+      "id": "U1407",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1408",
+    "user": {
+      "id": "U1408",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1410",
+    "user": {
+      "id": "U1410",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1411",
+    "user": {
+      "id": "U1411",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1412",
+    "user": {
+      "id": "U1412",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1413",
+    "user": {
+      "id": "U1413",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "lento",
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1415",
+    "user": {
+      "id": "U1415",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1417",
+    "user": {
+      "id": "U1417",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1418",
+    "user": {
+      "id": "U1418",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "útil",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1419",
+    "user": {
+      "id": "U1419",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1420",
+    "user": {
+      "id": "U1420",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1429",
+    "user": {
+      "id": "U1429",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1431",
+    "user": {
+      "id": "U1431",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1432",
+    "user": {
+      "id": "U1432",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1435",
+    "user": {
+      "id": "U1435",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1436",
+    "user": {
+      "id": "U1436",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1446",
+    "user": {
+      "id": "U1446",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "rapide",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1447",
+    "user": {
+      "id": "U1447",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1448",
+    "user": {
+      "id": "U1448",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "slow",
+        "accurate",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1452",
+    "user": {
+      "id": "U1452",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "polite",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1455",
+    "user": {
+      "id": "U1455",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1457",
+    "user": {
+      "id": "U1457",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1459",
+    "user": {
+      "id": "U1459",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1462",
+    "user": {
+      "id": "U1462",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1463",
+    "user": {
+      "id": "U1463",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1466",
+    "user": {
+      "id": "U1466",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1468",
+    "user": {
+      "id": "U1468",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1469",
+    "user": {
+      "id": "U1469",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1470",
+    "user": {
+      "id": "U1470",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "lento",
+        "útil",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1472",
+    "user": {
+      "id": "U1472",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1473",
+    "user": {
+      "id": "U1473",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "educado",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1476",
+    "user": {
+      "id": "U1476",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1478",
+    "user": {
+      "id": "U1478",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1479",
+    "user": {
+      "id": "U1479",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1480",
+    "user": {
+      "id": "U1480",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "confusing",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1481",
+    "user": {
+      "id": "U1481",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1482",
+    "user": {
+      "id": "U1482",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1484",
+    "user": {
+      "id": "U1484",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "rapide",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1485",
+    "user": {
+      "id": "U1485",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1488",
+    "user": {
+      "id": "U1488",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1489",
+    "user": {
+      "id": "U1489",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1490",
+    "user": {
+      "id": "U1490",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1491",
+    "user": {
+      "id": "U1491",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1493",
+    "user": {
+      "id": "U1493",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1494",
+    "user": {
+      "id": "U1494",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1495",
+    "user": {
+      "id": "U1495",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1496",
+    "user": {
+      "id": "U1496",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "lento",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1497",
+    "user": {
+      "id": "U1497",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1502",
+    "user": {
+      "id": "U1502",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1504",
+    "user": {
+      "id": "U1504",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1505",
+    "user": {
+      "id": "U1505",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1506",
+    "user": {
+      "id": "U1506",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1507",
+    "user": {
+      "id": "U1507",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1508",
+    "user": {
+      "id": "U1508",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1509",
+    "user": {
+      "id": "U1509",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "slow",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1510",
+    "user": {
+      "id": "U1510",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1512",
+    "user": {
+      "id": "U1512",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1513",
+    "user": {
+      "id": "U1513",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "confus",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1514",
+    "user": {
+      "id": "U1514",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1515",
+    "user": {
+      "id": "U1515",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1516",
+    "user": {
+      "id": "U1516",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1517",
+    "user": {
+      "id": "U1517",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1520",
+    "user": {
+      "id": "U1520",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1521",
+    "user": {
+      "id": "U1521",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1522",
+    "user": {
+      "id": "U1522",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "quick",
+        "confusing",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1525",
+    "user": {
+      "id": "U1525",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "accurate",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1527",
+    "user": {
+      "id": "U1527",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "slow",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1529",
+    "user": {
+      "id": "U1529",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1530",
+    "user": {
+      "id": "U1530",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1532",
+    "user": {
+      "id": "U1532",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1534",
+    "user": {
+      "id": "U1534",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1535",
+    "user": {
+      "id": "U1535",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "lento",
+        "útil",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1536",
+    "user": {
+      "id": "U1536",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1537",
+    "user": {
+      "id": "U1537",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1538",
+    "user": {
+      "id": "U1538",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1540",
+    "user": {
+      "id": "U1540",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1542",
+    "user": {
+      "id": "U1542",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "lent",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1544",
+    "user": {
+      "id": "U1544",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1546",
+    "user": {
+      "id": "U1546",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1553",
+    "user": {
+      "id": "U1553",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1554",
+    "user": {
+      "id": "U1554",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1555",
+    "user": {
+      "id": "U1555",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1556",
+    "user": {
+      "id": "U1556",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1558",
+    "user": {
+      "id": "U1558",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1561",
+    "user": {
+      "id": "U1561",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1562",
+    "user": {
+      "id": "U1562",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1563",
+    "user": {
+      "id": "U1563",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1564",
+    "user": {
+      "id": "U1564",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1565",
+    "user": {
+      "id": "U1565",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1566",
+    "user": {
+      "id": "U1566",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1572",
+    "user": {
+      "id": "U1572",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1573",
+    "user": {
+      "id": "U1573",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1574",
+    "user": {
+      "id": "U1574",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1576",
+    "user": {
+      "id": "U1576",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1577",
+    "user": {
+      "id": "U1577",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "slow",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1578",
+    "user": {
+      "id": "U1578",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1579",
+    "user": {
+      "id": "U1579",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1580",
+    "user": {
+      "id": "U1580",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1581",
+    "user": {
+      "id": "U1581",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1584",
+    "user": {
+      "id": "U1584",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1585",
+    "user": {
+      "id": "U1585",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1586",
+    "user": {
+      "id": "U1586",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "útil",
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1588",
+    "user": {
+      "id": "U1588",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "lento",
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1589",
+    "user": {
+      "id": "U1589",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1591",
+    "user": {
+      "id": "U1591",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1595",
+    "user": {
+      "id": "U1595",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1599",
+    "user": {
+      "id": "U1599",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1600",
+    "user": {
+      "id": "U1600",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1602",
+    "user": {
+      "id": "U1602",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1605",
+    "user": {
+      "id": "U1605",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1606",
+    "user": {
+      "id": "U1606",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "confusing",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1609",
+    "user": {
+      "id": "U1609",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1611",
+    "user": {
+      "id": "U1611",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1612",
+    "user": {
+      "id": "U1612",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1613",
+    "user": {
+      "id": "U1613",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1614",
+    "user": {
+      "id": "U1614",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1617",
+    "user": {
+      "id": "U1617",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1620",
+    "user": {
+      "id": "U1620",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1621",
+    "user": {
+      "id": "U1621",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1622",
+    "user": {
+      "id": "U1622",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1625",
+    "user": {
+      "id": "U1625",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1628",
+    "user": {
+      "id": "U1628",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1629",
+    "user": {
+      "id": "U1629",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1630",
+    "user": {
+      "id": "U1630",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1632",
+    "user": {
+      "id": "U1632",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow",
+        "helpful",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1634",
+    "user": {
+      "id": "U1634",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1635",
+    "user": {
+      "id": "U1635",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1636",
+    "user": {
+      "id": "U1636",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "útil",
+        "confuso",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1637",
+    "user": {
+      "id": "U1637",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1638",
+    "user": {
+      "id": "U1638",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1641",
+    "user": {
+      "id": "U1641",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "lento",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1647",
+    "user": {
+      "id": "U1647",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite",
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1649",
+    "user": {
+      "id": "U1649",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1651",
+    "user": {
+      "id": "U1651",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1652",
+    "user": {
+      "id": "U1652",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1653",
+    "user": {
+      "id": "U1653",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "slow",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1655",
+    "user": {
+      "id": "U1655",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1658",
+    "user": {
+      "id": "U1658",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1659",
+    "user": {
+      "id": "U1659",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1660",
+    "user": {
+      "id": "U1660",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1661",
+    "user": {
+      "id": "U1661",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1663",
+    "user": {
+      "id": "U1663",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1664",
+    "user": {
+      "id": "U1664",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1665",
+    "user": {
+      "id": "U1665",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1666",
+    "user": {
+      "id": "U1666",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1667",
+    "user": {
+      "id": "U1667",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow",
+        "accurate",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1670",
+    "user": {
+      "id": "U1670",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "slow",
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1672",
+    "user": {
+      "id": "U1672",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1673",
+    "user": {
+      "id": "U1673",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1674",
+    "user": {
+      "id": "U1674",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1675",
+    "user": {
+      "id": "U1675",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1676",
+    "user": {
+      "id": "U1676",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "útil",
+        "confuso",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1680",
+    "user": {
+      "id": "U1680",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1683",
+    "user": {
+      "id": "U1683",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1684",
+    "user": {
+      "id": "U1684",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1687",
+    "user": {
+      "id": "U1687",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1692",
+    "user": {
+      "id": "U1692",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1694",
+    "user": {
+      "id": "U1694",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1695",
+    "user": {
+      "id": "U1695",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "confus",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1697",
+    "user": {
+      "id": "U1697",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1698",
+    "user": {
+      "id": "U1698",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "confusing",
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1699",
+    "user": {
+      "id": "U1699",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "lent",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1700",
+    "user": {
+      "id": "U1700",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1701",
+    "user": {
+      "id": "U1701",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1706",
+    "user": {
+      "id": "U1706",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1707",
+    "user": {
+      "id": "U1707",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1709",
+    "user": {
+      "id": "U1709",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1710",
+    "user": {
+      "id": "U1710",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1711",
+    "user": {
+      "id": "U1711",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "útil",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1713",
+    "user": {
+      "id": "U1713",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1714",
+    "user": {
+      "id": "U1714",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1715",
+    "user": {
+      "id": "U1715",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1716",
+    "user": {
+      "id": "U1716",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1717",
+    "user": {
+      "id": "U1717",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1718",
+    "user": {
+      "id": "U1718",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1722",
+    "user": {
+      "id": "U1722",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "quick",
+        "confusing",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1723",
+    "user": {
+      "id": "U1723",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "utile",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1724",
+    "user": {
+      "id": "U1724",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1726",
+    "user": {
+      "id": "U1726",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1728",
+    "user": {
+      "id": "U1728",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1730",
+    "user": {
+      "id": "U1730",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1731",
+    "user": {
+      "id": "U1731",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1732",
+    "user": {
+      "id": "U1732",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1734",
+    "user": {
+      "id": "U1734",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "rápido",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1736",
+    "user": {
+      "id": "U1736",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1737",
+    "user": {
+      "id": "U1737",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "poli",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1739",
+    "user": {
+      "id": "U1739",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1740",
+    "user": {
+      "id": "U1740",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "lento",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1741",
+    "user": {
+      "id": "U1741",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1743",
+    "user": {
+      "id": "U1743",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1744",
+    "user": {
+      "id": "U1744",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1745",
+    "user": {
+      "id": "U1745",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1746",
+    "user": {
+      "id": "U1746",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1748",
+    "user": {
+      "id": "U1748",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1749",
+    "user": {
+      "id": "U1749",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1753",
+    "user": {
+      "id": "U1753",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1756",
+    "user": {
+      "id": "U1756",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "accurate",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1758",
+    "user": {
+      "id": "U1758",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1760",
+    "user": {
+      "id": "U1760",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1762",
+    "user": {
+      "id": "U1762",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1764",
+    "user": {
+      "id": "U1764",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1765",
+    "user": {
+      "id": "U1765",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1767",
+    "user": {
+      "id": "U1767",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1769",
+    "user": {
+      "id": "U1769",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1770",
+    "user": {
+      "id": "U1770",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1773",
+    "user": {
+      "id": "U1773",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1778",
+    "user": {
+      "id": "U1778",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1779",
+    "user": {
+      "id": "U1779",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1780",
+    "user": {
+      "id": "U1780",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1781",
+    "user": {
+      "id": "U1781",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1783",
+    "user": {
+      "id": "U1783",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1784",
+    "user": {
+      "id": "U1784",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1787",
+    "user": {
+      "id": "U1787",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1791",
+    "user": {
+      "id": "U1791",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1795",
+    "user": {
+      "id": "U1795",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "accurate",
+        "slow"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1796",
+    "user": {
+      "id": "U1796",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "utile",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1797",
+    "user": {
+      "id": "U1797",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1799",
+    "user": {
+      "id": "U1799",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "útil",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1800",
+    "user": {
+      "id": "U1800",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1801",
+    "user": {
+      "id": "U1801",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1803",
+    "user": {
+      "id": "U1803",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1804",
+    "user": {
+      "id": "U1804",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1806",
+    "user": {
+      "id": "U1806",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1810",
+    "user": {
+      "id": "U1810",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "utile",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1812",
+    "user": {
+      "id": "U1812",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "accurate",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1814",
+    "user": {
+      "id": "U1814",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1816",
+    "user": {
+      "id": "U1816",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1817",
+    "user": {
+      "id": "U1817",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "polite",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1818",
+    "user": {
+      "id": "U1818",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1819",
+    "user": {
+      "id": "U1819",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1820",
+    "user": {
+      "id": "U1820",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1821",
+    "user": {
+      "id": "U1821",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1822",
+    "user": {
+      "id": "U1822",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "slow",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1823",
+    "user": {
+      "id": "U1823",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1825",
+    "user": {
+      "id": "U1825",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1826",
+    "user": {
+      "id": "U1826",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1827",
+    "user": {
+      "id": "U1827",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1830",
+    "user": {
+      "id": "U1830",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1831",
+    "user": {
+      "id": "U1831",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "quick",
+        "helpful",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1834",
+    "user": {
+      "id": "U1834",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1836",
+    "user": {
+      "id": "U1836",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1837",
+    "user": {
+      "id": "U1837",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "lento",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1838",
+    "user": {
+      "id": "U1838",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "confus",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1839",
+    "user": {
+      "id": "U1839",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1841",
+    "user": {
+      "id": "U1841",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Very helpful.",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.2,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1843",
+    "user": {
+      "id": "U1843",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "poli",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1845",
+    "user": {
+      "id": "U1845",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1848",
+    "user": {
+      "id": "U1848",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1851",
+    "user": {
+      "id": "U1851",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "poli",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1852",
+    "user": {
+      "id": "U1852",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1853",
+    "user": {
+      "id": "U1853",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "útil",
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1855",
+    "user": {
+      "id": "U1855",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1856",
+    "user": {
+      "id": "U1856",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "educado",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1858",
+    "user": {
+      "id": "U1858",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1859",
+    "user": {
+      "id": "U1859",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1860",
+    "user": {
+      "id": "U1860",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1861",
+    "user": {
+      "id": "U1861",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1862",
+    "user": {
+      "id": "U1862",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1863",
+    "user": {
+      "id": "U1863",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1866",
+    "user": {
+      "id": "U1866",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1868",
+    "user": {
+      "id": "U1868",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1869",
+    "user": {
+      "id": "U1869",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1872",
+    "user": {
+      "id": "U1872",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "helpful"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1873",
+    "user": {
+      "id": "U1873",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "précis",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1874",
+    "user": {
+      "id": "U1874",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1878",
+    "user": {
+      "id": "U1878",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1879",
+    "user": {
+      "id": "U1879",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "helpful",
+        "slow",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1885",
+    "user": {
+      "id": "U1885",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1887",
+    "user": {
+      "id": "U1887",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1888",
+    "user": {
+      "id": "U1888",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "slow",
+        "quick",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1889",
+    "user": {
+      "id": "U1889",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado",
+        "lento",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1891",
+    "user": {
+      "id": "U1891",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "polite",
+        "helpful",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1892",
+    "user": {
+      "id": "U1892",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "slow",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1893",
+    "user": {
+      "id": "U1893",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1894",
+    "user": {
+      "id": "U1894",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido",
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1896",
+    "user": {
+      "id": "U1896",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "confusing"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1898",
+    "user": {
+      "id": "U1898",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "accurate",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1903",
+    "user": {
+      "id": "U1903",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "lento",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1906",
+    "user": {
+      "id": "U1906",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1907",
+    "user": {
+      "id": "U1907",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1908",
+    "user": {
+      "id": "U1908",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Trop lent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1909",
+    "user": {
+      "id": "U1909",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "educado",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1913",
+    "user": {
+      "id": "U1913",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "lento",
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1917",
+    "user": {
+      "id": "U1917",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1921",
+    "user": {
+      "id": "U1921",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1924",
+    "user": {
+      "id": "U1924",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Demasiado lento",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1925",
+    "user": {
+      "id": "U1925",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "poli",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1926",
+    "user": {
+      "id": "U1926",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "polite"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1927",
+    "user": {
+      "id": "U1927",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1930",
+    "user": {
+      "id": "U1930",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1931",
+    "user": {
+      "id": "U1931",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1932",
+    "user": {
+      "id": "U1932",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "lent",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1940",
+    "user": {
+      "id": "U1940",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1941",
+    "user": {
+      "id": "U1941",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1945",
+    "user": {
+      "id": "U1945",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1948",
+    "user": {
+      "id": "U1948",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1949",
+    "user": {
+      "id": "U1949",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "lent",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1950",
+    "user": {
+      "id": "U1950",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Servicio excelente",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "lento",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1951",
+    "user": {
+      "id": "U1951",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1955",
+    "user": {
+      "id": "U1955",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1958",
+    "user": {
+      "id": "U1958",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "útil"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1959",
+    "user": {
+      "id": "U1959",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "confuso",
+        "lento"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1961",
+    "user": {
+      "id": "U1961",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1963",
+    "user": {
+      "id": "U1963",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Great service!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "slow"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1964",
+    "user": {
+      "id": "U1964",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Loved it!",
+      "language": "en",
+      "tags": [
+        "quick",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": 0.875,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1965",
+    "user": {
+      "id": "U1965",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Confuso a veces",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1966",
+    "user": {
+      "id": "U1966",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1967",
+    "user": {
+      "id": "U1967",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "lento",
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1968",
+    "user": {
+      "id": "U1968",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "confusing",
+        "quick",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1969",
+    "user": {
+      "id": "U1969",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Confusing at times",
+      "language": "en",
+      "tags": [
+        "confusing"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1970",
+    "user": {
+      "id": "U1970",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "précis",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1973",
+    "user": {
+      "id": "U1973",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1974",
+    "user": {
+      "id": "U1974",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1975",
+    "user": {
+      "id": "U1975",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "slow",
+        "confusing",
+        "helpful"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1976",
+    "user": {
+      "id": "U1976",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "précis",
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1978",
+    "user": {
+      "id": "U1978",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Aucun commentaire",
+      "language": "fr",
+      "tags": [
+        "confus",
+        "rapide",
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1980",
+    "user": {
+      "id": "U1980",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "confus"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1981",
+    "user": {
+      "id": "U1981",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Sin comentarios",
+      "language": "es",
+      "tags": [
+        "educado"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1983",
+    "user": {
+      "id": "U1983",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1984",
+    "user": {
+      "id": "U1984",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "lent"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1987",
+    "user": {
+      "id": "U1987",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "utile",
+        "rapide"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1988",
+    "user": {
+      "id": "U1988",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "J'ai adoré",
+      "language": "fr",
+      "tags": [
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1990",
+    "user": {
+      "id": "U1990",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Service excellent",
+      "language": "fr",
+      "tags": [
+        "confus"
+      ],
+      "sentiment": {
+        "score": 1.0,
+        "label": "Positive"
+      }
+    }
+  },
+  {
+    "session_id": "S1991",
+    "user": {
+      "id": "U1991",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Me encantó",
+      "language": "es",
+      "tags": [
+        "educado",
+        "lento",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1992",
+    "user": {
+      "id": "U1992",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "rapide",
+        "poli"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1993",
+    "user": {
+      "id": "U1993",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 3,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "quick"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1994",
+    "user": {
+      "id": "U1994",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 4,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "précis"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1995",
+    "user": {
+      "id": "U1995",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Muy útil",
+      "language": "es",
+      "tags": [
+        "preciso",
+        "rápido",
+        "confuso"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1996",
+    "user": {
+      "id": "U1996",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 1,
+      "comment": "Too slow",
+      "language": "en",
+      "tags": [
+        "polite",
+        "accurate"
+      ],
+      "sentiment": {
+        "score": -0.3,
+        "label": "Negative"
+      }
+    }
+  },
+  {
+    "session_id": "S1997",
+    "user": {
+      "id": "U1997",
+      "gender": "m"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "No comment",
+      "language": "en",
+      "tags": [
+        "polite",
+        "quick"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1998",
+    "user": {
+      "id": "U1998",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 5,
+      "comment": "Très utile",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  },
+  {
+    "session_id": "S1999",
+    "user": {
+      "id": "U1999",
+      "gender": "f"
+    },
+    "feedback": {
+      "rating": 2,
+      "comment": "Déroutant parfois",
+      "language": "fr",
+      "tags": [
+        "utile"
+      ],
+      "sentiment": {
+        "score": 0.0,
+        "label": "Neutral"
+      }
+    }
+  }
+]
